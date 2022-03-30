@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 pwd
+=======
+realpath filename
+>>>>>>> b53ee5859cb2c6a3541c8dab18ec1b78c1cb2556
