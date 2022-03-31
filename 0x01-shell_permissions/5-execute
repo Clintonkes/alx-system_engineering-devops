@@ -1,6 +1,1 @@
 #!/bin/bash
-<<<<<<< HEAD
-chmod 100 hello
-=======
-chmod 700 hello
->>>>>>> 37e4c3238e3703c1f8ff63d5bacf6612e91a8b72
