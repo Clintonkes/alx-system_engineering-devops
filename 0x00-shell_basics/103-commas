@@ -1,0 +1,6 @@
+#!/bin/bash
+<<<<<<< HEAD
+ls -m
+=======
+ls -map
+>>>>>>> 92c2d63f31e0dcd7197323ac600d3f12fd5e4d12
