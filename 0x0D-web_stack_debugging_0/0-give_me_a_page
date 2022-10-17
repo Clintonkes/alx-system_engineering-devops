@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Get Apache to run on a Docker container and return a page containing Hello Holberton when querying the root
+echo "ServerName localhost" >> /etc/apache2.conf
+service apache2 start
